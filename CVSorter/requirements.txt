@@ -1,0 +1,6 @@
+pdfplumber
+pypdf
+python-docx
+openpyxl
+tkinterdnd2
+pyinstaller
